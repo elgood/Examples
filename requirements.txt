@@ -1,5 +1,5 @@
 whois
-sklearn
+scikit-learn
 matplotlib
 scipy
 numpy
